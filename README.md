@@ -23,3 +23,4 @@ Once you have installed SBT, download this repository using:
     $ git clone https://github.com/pbugnion/s4ds.git
 
 You can then navigate to each chapter and type `sbt run` in a terminal to run the source code, or `sbt console` to open a Scala console with all the dependencies for that particular chapter. Read the README for each chapter for more detail.
+
